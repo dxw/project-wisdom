@@ -1,5 +1,7 @@
 ![CI Status](https://github.com/dxw/project_wisdom/workflows/CI/badge.svg) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+TESTing draft PR exclusion
+
 # Project Wisdom
 
 A Zendesk App that fetches contextual information about a ticket from its custom
