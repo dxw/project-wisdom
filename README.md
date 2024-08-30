@@ -1,3 +1,7 @@
+# dxw note
+
+2024-08-23: this project is no longer used and is now archived.
+
 ![CI Status](https://github.com/dxw/project_wisdom/workflows/CI/badge.svg) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 # Project Wisdom
